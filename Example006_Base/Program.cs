@@ -1,0 +1,17 @@
+﻿// Console.Write("Введите вес первой гири:");
+int A = 1;// Console.ReadLine();
+// Console.Write("Введите вес второй гири:");
+int B = 2;// Console.ReadLine();
+// Console.Write("Введите вес третьей гири:");
+int C = 6;// Console.ReadLine();
+// Console.Write("Введите вес четвертой гири:");
+int D = 8;// Console.ReadLine();
+// Console.Write("Введите вес пятой гири:");
+int E = 4;//Console.ReadLine();
+int Max = A;
+if (B > Max) Max = B;
+if (C > Max) Max = C;
+if (D > Max) Max = D;
+if (E > Max) Max = E;
+Console.Write("Максимальный вес гири: Max = ");
+Console.WriteLine(Max);
