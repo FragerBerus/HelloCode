@@ -17,7 +17,7 @@
                         S = S - (S*V1/(V1+V2));
                         F = 1;
                     }
-                 P = P+1;        
+                P = P+1;        
             }       
         Console.Write("Собака пробежит "+ P+" раз");
         //Console.WriteLine(P);   
