@@ -13,7 +13,7 @@
     }
 }
 
-void PrintArray(int[] col)  // Мтод void ничего не возвращает.
+void PrintArray(int[] col)  // Метод void ничего не возвращает.
                             // Поэтому оператор return 
                             // не используется.
 {
